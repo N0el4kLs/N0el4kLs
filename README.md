@@ -1,5 +1,10 @@
-### Hi there 👋
+### About me 👋
 
+ - I’m currently learning Golang,RT 💩.
+ - [http://www.noel-zero.top](http://www.noel-zero.top/) 💬
+ - No one can become a hacker within one day! 💪
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0el4kLs&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **N0el4kLs/N0el4kLs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
